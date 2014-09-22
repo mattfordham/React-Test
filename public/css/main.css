@@ -1,0 +1,13 @@
+body {
+  color: #000;
+  border-radius: 10px;
+  -webkit-transition: border 200ms;
+  transition: border 200ms;
+}
+a {
+  color: #00f;
+  text-decoration: none;
+}
+ul {
+  color: #008000;
+}
